@@ -1,0 +1,113 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "logo": "/images/Logo.png",
+      "home": {
+        "hometitle": "HOME"
+      },
+      "pages": {
+        "pagetitle": "PAGES"
+      },
+      "shop": {
+        "shoptitle": "SHOP"
+      },
+      "blog": {
+        "blogtitle": "BLOG"
+      },
+      "portfolio": {
+        "portfoliotitle": "PORTFOLIO"
+      }
+    }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "cpy": "Copyright ©2021 TRIO - All Rights Reserved.",
+      "fmail": "htcindia.com"
+    }
+  ],
+  "homeDetails": [
+    {
+      "id": 1,
+      "image1": "/images/Banner.jpg",
+      "image3": "/images/Beauty.b8bf7ca5.jpg",
+      "image6": "/images/Employee.png",
+      "h1tag": "Founded in 1997 as a laptop manufacturer, Taiwan-based HTC soon began making smartphones based on Windows Mobile and Brew. It released the first commercial Android smartphone, the HTC Dream, in 2008, and is today a manufacturer of both Android and Windows based smartphones."
+    }
+  ],
+  "tableData": [
+    {
+      "id": 1,
+      "fullname": "prathyusha",
+      "male": "male",
+      "female": "female",
+      "phone": "9182365296",
+      "education": "B.Tech",
+      "state": "A.P",
+      "address": "hvbshkvfsjv",
+      "lang": {
+        "english": "English",
+        "telugu": "Telugu"
+      }
+    },
+    {
+      "fullname": "sadfgefgf",
+      "phone": "5484845412",
+      "education": "ffdf",
+      "address": "asdcfwfgf",
+      "id": 5
+    },
+    {
+      "fullname": "jan",
+      "phone": "9182365296",
+      "education": "B.tech",
+      "address": "Hi This is jan...",
+      "id": 6
+    },
+    {
+      "fullname": "galla",
+      "phone": "9493474135",
+      "education": "Civil",
+      "address": "Hi \nThis is Rock...",
+      "id": 7
+    }
+    
+    
+  ],
+  "pageimages": [
+    {
+      "id":1,
+       "pageimage1": "/images/pages/ai-pest-detection.jpg",
+       "pageimage2": "/images/pages/ai-for-healthy-diet.jpg",
+       "pageimage3":"/images/pages/ai-for-workforce.jpg",
+       "pageimage4":"/images/pages/ai-for-hiring.jpg",
+       "pageimage5":"/images/pages/ai-receptionist.jpg"
+    }
+  ],
+  "Category": [
+    {
+      "id":1,
+      "image2": "/images/Beauty.jpg",
+      "h4tag": "Best of Beauty",
+      "ptag" : "All Natural Non Toxic",
+      "button": "Shop Now"
+    },
+    {
+      "id":2,
+      "image2": "/images/Supplements.jpg",
+      "h4tag": "Best of home need",
+      "ptag" : "All Natural best food",
+      "button": "Shop Now"
+    },
+    {
+      "id":3,
+      "image2": "/images/Fitness.jpg",
+      "h4tag": "Best of home grocessary",
+      "ptag" : "All Natural products",
+      "button": "Shop Now"
+    }
+    
+  ]
+
+}
